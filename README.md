@@ -8,7 +8,7 @@ AutoEUServerless 是一个基于腾讯云函数 Serverless 架构的自动化工
 - **多账户支持**：支持配置多个 EUserv 账户。
 - **自动获取PIN码**：支持通过转发规则解析获取邮箱PIN码。
 - **验证码识别**：自动识别登录过程中的验证码。
-- **Telegram 通知**：通过 Telegram Bot 发送续期状态通知。
+- **Telegram 通知**：通过 Telegram  发送续期状态通知。
 
 ## 使用说明
 大家都应该有一只德鸡,即乌龟壳之后唯一的一个永久免费VPS。  
