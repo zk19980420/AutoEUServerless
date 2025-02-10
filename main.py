@@ -17,22 +17,22 @@ import requests
 from bs4 import BeautifulSoup
 
 # 账户信息：用户名和密码
-USERNAME = 'baobao1733@gmail.com'  # 填写用户名或邮箱
-PASSWORD = 'ZHAOkun0420'  # 填写密码
+USERNAME = '****'  # 填写用户名或邮箱
+PASSWORD = '****'  # 填写密码
 
 # TrueCaptcha API 配置
 # 申请地址: https://truecaptcha.org/
 
-TRUECAPTCHA_USERID = 'yl0919'
-TRUECAPTCHA_APIKEY = 'rFxUg6AMNiDPkiduepv9'
+TRUECAPTCHA_USERID = '****'
+TRUECAPTCHA_APIKEY = '****'
 
 # Mailparser 配置
-MAILPARSER_DOWNLOAD_URL_ID = 'luomhdqf' # 填写Mailparser的下载URL_ID
+MAILPARSER_DOWNLOAD_URL_ID = '****' # 填写Mailparser的下载URL_ID
 MAILPARSER_DOWNLOAD_BASE_URL = "https://files.mailparser.io/d/" # 无需更改除非你要反代
 
 # Telegram Bot 推送配置
-TG_BOT_TOKEN = "7218083256:AAHFlYXdxCZiQjTnAKRs8oXFNH9gq6SNBQg"
-TG_USER_ID = "7437159634" # 用户机器人向你发送消息
+TG_BOT_TOKEN = "****"
+TG_USER_ID = "****" # 用户机器人向你发送消息
 TG_API_HOST = "https://api.telegram.org"
 
 # 代理设置（如果需要）
